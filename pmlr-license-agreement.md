@@ -3,15 +3,15 @@ subtitle: Proceedings of Machine Learning Research
 title: Publication Agreement
 ---
 
-This is a publication agreement[^language] (“this agreement”) regarding a written manuscript currently entitled:
+This is a publication agreement[^language] regarding a written manuscript currently entitled:
 
 ---
 
-(“the article”) to be published in PMLR (“the proceedings”). The parties to this Agreement are:
+Individual Fairness in Feature-Based Pricing for Monopoly Markets to be published in PMLR (“the proceedings”). The parties to this Agreement are:
 
 ---
 
-(name of corresponding author who signs on behalf of any other authors, collectively “you”) and PMLR, (“the publisher”).
+Shantanu Das and PMLR, (“the publisher”).
 
 1. By signing this form, you warrant that you are signing on behalf of all authors of the article, and that you have the authority to act as their agent for the purpose of entering into this agreement.
 
@@ -41,9 +41,9 @@ interest, including your heirs. It will terminate if the publisher does not publ
 
 I HAVE READ AND AGREE FULLY WITH THE TERMS OF THIS AGREEMENT.
 
-* Corresponding Author:
-    * Signed:
-    * Date:
+* Corresponding Author: Shantanu Das
+    * Signed: Shantanu Das
+    * Date: 15$^{\text{th}}$ June 2022
 
 
 [^language]: The language of this publication agreement is based on Stuart Shieber’s model open-access journal publication agreement, version 1.2, available at http://bit.ly/1m9UsNt.
